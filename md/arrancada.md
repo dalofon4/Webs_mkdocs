@@ -1,0 +1,1 @@
+![center w:1100px h:500px](imatges/img_4_5_6.png)

@@ -1,0 +1,29 @@
+site_name: CLONACIÓ I RESTAURACIÓ D'UN DISC DUR AMB CLONEZILLA
+docs_dir: 'md'
+site_dir: 'docs'
+
+
+nav:
+    - CLONEZILLA: benvinguda.md
+    - 1. CREACIÓ DE LA IMATGE: 
+        - 1.1 Material necessari: material.md
+        - 1.2 De què tracta aquesta pràctica?: tracta.md
+        - 1.3 Preparació: preparacio.md
+        - 1.4 Instal·lació: isntalacio.md
+        - 1.5 Arrancada de Clonezilla: arrancada.md
+        - 1.6 Realitzar una imatge amb clonezilla: imatge.md
+    - 2. RESTAURACIÓ D'UN DISC DUR A APARTIR DE LA IMATGE CREADA:
+        - 2.1 Arrancada: arrancada.md
+        - 2.2 Restauració
+
+
+theme: readthedocs
+
+extra_css:
+  - css/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+
+  

@@ -1,0 +1,60 @@
+body {
+    background-color: #0af2f9;
+    font-size: 15px;
+    font-family: Arial;
+}
+
+.navbar {
+    background-color: #e209e2;
+    
+   }
+   
+
+.wm-toc-pane {
+  
+  background-color: #bcecf8;
+  border-right: 1px solid #b3e5f8;
+  }
+
+
+.wm-toc-pane.wm-toc-dropdown {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  margin-left: 0;
+  height: auto;
+  box-shadow: 2px 3px 4px 0 rgb(84, 206, 243);
+}
+
+.wm-toctree a, .wm-toctree a:visited, .wm-toctree a:hover, .wm-toctree a:focus {
+  color: #5f0583;
+  text-decoration: none;
+  outline: none;
+}
+.wm-toc-li.wm-current, .wm-toc-li.wm-current:hover {
+  background-color: #e9acf8;
+  color: white;
+}
+
+  h2 {
+  color: #c91bf0;
+  font-weight: normal;
+    }
+  h3 {
+  color: #3f038d;
+  font-weight: normal;
+  font-size: 20px;
+  font-family: Verdana;
+  
+  }
+
+  .wm-toctree a, .wm-toctree a:visited, .wm-toctree a:hover, .wm-toctree a:focus {
+    color: #b107ee;
+    text-decoration: none;
+    outline: none;
+  }
+
+  .wm-toc-li:hover {
+    background-color: #ebc0f7;
+  }
